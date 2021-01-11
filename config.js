@@ -136,7 +136,7 @@ module.exports = {
         "notValidCommand": "This is not a valid command. Type **+help** for a list and try again.",
         "notAllowedCommand": "You are not allowed to use this command!",
         "walletOffline": "The wallet is not reachable. Please try again. \nIf the problem persists after another attempt, please contact the admin.",
-        "wentWrong": "Somethig went wrong with your request. Please try again. \nIf the problem persists after another attempt, please contact the admin.",
+        "wentWrong": "Something went wrong with your request. Please try again. \nIf the problem persists after another attempt, please contact the admin.",
         "comingSoon":"Coming soon!",
         "accountNotRegistered": "You are not registered. \nPlease type **+register** to create an account.",
         "currentlyBlocked":"Please wait until your other task is done before starting another one.",
